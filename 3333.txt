@@ -1,6 +1,1 @@
-3333
-333
-3
-3
-33
-33331231
+System.out.println("Hello world!");
